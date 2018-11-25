@@ -1,0 +1,32 @@
+li{
+color: lightcyan;
+font-size: 16pt;
+}
+body{
+background-color: black;
+font-family: malgun gothic;
+}
+h1{
+color: lightcyan;
+}
+h3{
+color: lightcyan;
+font-size: 14pt;
+}
+h4{
+margin-left: 12.5%;
+color: lightcyan;
+font-size: 12pt;
+}
+p{
+margin-left: 12.5%;
+color: lightcyan;
+font-size: 12pt;
+}
+a{
+color: red;
+font-size: 14pt;
+}
+div.a{
+	text-align: center;
+}

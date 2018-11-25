@@ -1,0 +1,25 @@
+IMG {border: 2px solid maroon;}
+body{
+background-color: black;
+font-family: ink free;
+}
+h1{
+font-size: 48pt;
+color: lightcyan;
+margin-left: 7% 
+}
+a{
+color: red;
+float: right;
+}
+p{
+font-size: 16pt;
+color: lightcyan;
+}
+li{
+color: lightcyan;
+text-align: center;
+font-size: 14pt;
+}
+div.a{
+text-align: center;
